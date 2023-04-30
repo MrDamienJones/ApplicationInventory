@@ -1,0 +1,15 @@
+###################
+###### FILES ######
+###################
+
+# File Containing Variables
+ApplicationInventory.ps1
+
+
+
+#####################
+###### FOLDERS ######
+#####################
+
+# VSCode Debugging
+.vscode/
